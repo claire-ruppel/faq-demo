@@ -1,0 +1,7 @@
+# The page is generated from faqs/*.md by build.js.
+# Keeping it out of git means pull requests show only the clean Markdown change.
+# Prefer to commit the built page instead? Delete the line below.
+index.html
+
+node_modules/
+.DS_Store
