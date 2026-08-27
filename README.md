@@ -1,6 +1,6 @@
 # Help Center — demo project
 
-A tiny help-center website used to demonstrate the everyday workflow: run a
+A tiny demo help-center website used to demonstrate the everyday workflow: run a
 skill, review the change, then branch, commit, push, and open a pull request.
 
 Each FAQ is a small file in the `faqs/` folder. A build step turns those files
